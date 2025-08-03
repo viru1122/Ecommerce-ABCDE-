@@ -1,0 +1,33 @@
+{
+	"id": "85af3da3-b355-48cc-8299-13d26d450027",
+	"name": "E-Commerce Env",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "http://localhost:8080",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "itemId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "cartId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-08-02T13:00:55.951Z",
+	"_postman_exported_using": "Postman/11.51.5"
+}
